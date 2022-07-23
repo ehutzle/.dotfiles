@@ -1,3 +1,5 @@
+local Plug = vim.fn['plug#']
+
 require('packer').startup(function()
   use 'wbthomason/packer.nvim'
   use 'neovim/nvim-lspconfig'
@@ -6,5 +8,10 @@ require('packer').startup(function()
   use 'hrsh7th/cmp-path'
   use 'hrsh7th/cmp-cmdline'
   use 'hrsh7th/nvim-cmp'
-
+  use { "junegunn/fzf", run = ":call fzf#install()" }
+  use 'junegunn/fzf.vim'
+  use {"max397574/better-escape.nvim",
+  	config = function()
+    		require("better_escape").setup()
+  	end,}  
 end)
