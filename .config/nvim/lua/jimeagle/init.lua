@@ -1,3 +1,2 @@
-require("jimeagle.set")
-require("jimeagle.packer")
 require("jimeagle.remap")
+require("jimeagle.packer")

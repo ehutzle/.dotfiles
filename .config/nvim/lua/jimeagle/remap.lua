@@ -1,3 +1,2 @@
-local nnoremap = require("jimeagle.keymap").nnoremap
-
-nnoremap("<leader>q", "<cmd>Explore<CR>")
+vim.g.mapleader = " "
+vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
