@@ -1,0 +1,35 @@
+# dotfiles
+
+.CFUserTextEncoding
+.DS_Store
+.gitconfig
+.hyper_plugins/
+.lesshst
+.npm/
+.nvm/
+.ssh/
+.viminfo
+.zcompdump
+.zsh_history
+.zsh_sessions/
+.zshrc
+
+# er-macbook-pro
+
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
