@@ -2,7 +2,8 @@
 /Users/er/.config/nvim/plugin
 
 # dotfiles
-
+.zcompdump-Eric*
+.Trash/
 .CFUserTextEncoding
 .DS_Store
 .cache/
@@ -21,10 +22,19 @@
 .zsh_sessions/
 .zshrc
 
+# oh-my-zsh
+
+!/.oh-my-zsh/
+/.oh-my-zsh/**
+!/.oh-my-zsh/custom/
+.oh-my-zsh/custom/themes
+.oh-my-zsh/custom/plugins
+
 # er-macbook-pro
 
 Applications/
 Desktop/
+Development/
 Documents/
 Downloads/
 Library/
