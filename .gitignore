@@ -1,7 +1,14 @@
+# Packer
+/Users/er/.config/nvim/plugin
+
 # dotfiles
 
 .CFUserTextEncoding
 .DS_Store
+.cache/
+.local/
+.vim/
+.zprofile
 .gitconfig
 .hyper_plugins/
 .lesshst
@@ -16,6 +23,7 @@
 
 # er-macbook-pro
 
+Applications/
 Desktop/
 Documents/
 Downloads/
