@@ -1,2 +1,2 @@
-require('onedark').setup()
-require("jimeagle")
+require('jimeagle')
+

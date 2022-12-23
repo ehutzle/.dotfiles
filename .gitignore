@@ -1,0 +1,53 @@
+# Packer
+/Users/er/.config/nvim/plugin
+
+# dotfiles
+.zcompdump-Eric*
+.Trash/
+.CFUserTextEncoding
+.DS_Store
+.cache/
+.local/
+.vim/
+.zprofile
+.gitconfig
+.hyper_plugins/
+.lesshst
+.npm/
+.nvm/
+.ssh/
+.viminfo
+.zcompdump
+.zsh_history
+.zsh_sessions/
+.zshrc
+
+# oh-my-zsh
+
+!/.oh-my-zsh/
+/.oh-my-zsh/**
+!/.oh-my-zsh/custom/
+.oh-my-zsh/custom/themes
+.oh-my-zsh/custom/plugins
+
+# er-macbook-pro
+
+Applications/
+Desktop/
+Development/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
