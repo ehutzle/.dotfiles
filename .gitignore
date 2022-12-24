@@ -21,6 +21,7 @@
 .zsh_history
 .zsh_sessions/
 .zshrc
+.python_history
 
 # oh-my-zsh
 
@@ -50,4 +51,5 @@ Movies/
 Music/
 Pictures/
 Public/
-
+Applications (Parallels)/
+Parallels/
