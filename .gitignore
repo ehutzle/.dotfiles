@@ -1,5 +1,6 @@
 # Packer
 /Users/er/.config/nvim/plugin
+.config/nvim/after/plugin/hop.lua
 
 # dotfiles
 .zcompdump-Eric*
