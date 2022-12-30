@@ -1,8 +1,8 @@
 -- examples for your init.lua
 
-vim.keymap.set("n", "<C-d>", vim.cmd.NvimTreeToggle)
+vim.keymap.set("n", "<leader>t", vim.cmd.NvimTreeToggle)
 vim.keymap.set("n", "<C-f>", vim.cmd.NvimTreeFocus)
-vim.keymap.set("n", "<leader>t", vim.cmd.NvimTreeFindFile)
+vim.keymap.set("n", "<leader>ff", vim.cmd.NvimTreeFindFile)
 vim.keymap.set("n", "<leader>ct", vim.cmd.NvimTreeCollapse)
 -- disable netrw at the very start of your init.lua (strongly advised)
 vim.g.loaded_netrw = 1

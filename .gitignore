@@ -1,12 +1,25 @@
+# Sensitive
+.aws/
+.pyutils.toml
+.prefect/
+
 # Packer
 /Users/er/.config/nvim/plugin
 
+
+# .config
+.config/nvim/plugin/
+.config/iterm2/
+.config/github-copilot/
+
 # dotfiles
+.tmux/
 .zcompdump-Eric*
 .Trash/
 .CFUserTextEncoding
 .DS_Store
 .cache/
+.prefect/
 .local/
 .vim/
 .zprofile
@@ -53,3 +66,5 @@ Pictures/
 Public/
 Applications (Parallels)/
 Parallels/
+
+tmux-install/
