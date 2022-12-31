@@ -8,7 +8,7 @@ cd neovim
 git checkout stable
 sudo make CMAKE_BUILD_TYPE=Release install
 cd ..
-rm -rf neovim
+sudo rm -rf neovim
 
 echo 'Installing Packer'
 
