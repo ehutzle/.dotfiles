@@ -1,5 +1,4 @@
 git init
-git remote add origin git git@github.com:ehutzle/.dotfiles.git
+git remote add origin "git@github.com:ehutzle/.dotfiles.git"
 git fetch origin
-git checkout -b master --track origin/master 
-
+git checkout -b master
