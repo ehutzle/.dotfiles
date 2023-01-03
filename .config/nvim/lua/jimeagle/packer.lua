@@ -82,7 +82,12 @@ return require('packer').startup(function(use)
     }
     use('github/copilot.vim')
     use('fladson/vim-kitty')
-    use('tpope/vim-surround')
     use('tmhedberg/SimpylFold')
     use('Konfekt/FastFold')
-end)
+    use({
+        "kylechui/nvim-surround",
+        tag = "*",
+        config = function()
+            require("nvim-surround").setup({}) end})
+        end)
+
