@@ -40,9 +40,9 @@
 
 !/.oh-my-zsh/
 /.oh-my-zsh/**
-!/.oh-my-zsh/custom/
-.oh-my-zsh/custom/themes
-.oh-my-zsh/custom/plugins
+             !/.oh-my-zsh/custom/
+             .oh-my-zsh/custom/themes
+             .oh-my-zsh/custom/plugins
 
 # er-macbook-pro
 
@@ -68,3 +68,33 @@ Applications (Parallels)/
 Parallels/
 
 tmux-install/
+
+.bash_history
+.bash_logout
+.bashrc
+.config/autostart/
+.config/dconf/
+.config/dleyna-renderer-service.conf
+.config/enchant/
+.config/evolution/
+.config/gtk-3.0/
+.config/ibus/
+.config/libreoffice/
+.config/monitors.xml
+.config/monitors.xml~
+.config/nautilus/
+.config/pulse/
+.config/touchegg/
+.config/user-dirs.dirs
+.config/user-dirs.locale
+.gnupg/
+.hidden
+.inputrc
+.mozilla/
+.oh-my-zsh/
+.profile
+.shell.pre-oh-my-zsh
+.sudo_as_admin_successful
+.zcompdump-er-linux-5.8
+.zcompdump-er-linux-5.8.zwc
+Templates/
